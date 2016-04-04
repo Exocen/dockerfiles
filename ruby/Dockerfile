@@ -1,5 +1,5 @@
-FROM ubuntu:14.04
-MAINTAINER ChangHoon Jeong <iamseapy@gmail.com>
+FROM ubuntu:latest
+MAINTAINER Exo
 
 RUN apt-get update
 
